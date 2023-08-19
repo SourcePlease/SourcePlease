@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourceplease&label=Profile%20views&color=0e75b6&style=flat" alt="sourceplease" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourceplease" alt="sourceplease" /></a> </p>
-
 <p align="center">
    <a href="https://telegram.dog/thoursbridi"><img src="https://img.shields.io/badge/ʙͥʀͭɪᷤᴅᷟɪͤ-30302f?style=flat&logo=telegram" alt="telegram badge"/>
    <a href="https://telegram.dog/SourcePleaseOfficial"><img src="https://img.shields.io/badge/Source Please-30302f?style=flat&logo=telegram" alt="telegram badge"/>
