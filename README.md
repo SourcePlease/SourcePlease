@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourceplease" alt="sourceplease" /></a> </p>
 
 <p align="center">
-   <a href="https://telegram.dog/thoursbridi"><img src="https://img.shields.io/badge/𝑪𝒍𝒊𝒏𝒕𝒐𝒏 𝑨𝒃𝒓𝒂𝒉𝒂𝒎-30302f?style=flat&logo=telegram" alt="telegram badge"/>
+   <a href="https://telegram.dog/thoursbridi"><img src="https://img.shields.io/badge/ʙͥʀͭɪᷤᴅᷟɪͤ-30302f?style=flat&logo=telegram" alt="telegram badge"/>
    <a href="https://telegram.dog/SourcePleaseOfficial"><img src="https://img.shields.io/badge/Source Please-30302f?style=flat&logo=telegram" alt="telegram badge"/>
    <a href="https://telegram.dog/SourcePleaseML"><img src="https://img.shields.io/badge/Source Pleace ML-30302f?style=flat&logo=telegram" alt="telegram badge"/>
    </p>
