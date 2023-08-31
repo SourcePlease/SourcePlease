@@ -6,7 +6,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{SourcePlease}/count.svg"/></p> 
 
 <p align="center">
-   <a href="https://telegram.dog/thoursbridi"><img src="https://img.shields.io/badge/ʙͥʀͭɪᷤᴅᷟɪͤ-30302f?style=flat&logo=telegram" alt="telegram badge"/>
    <a href="https://telegram.dog/SourcePleaseOfficial"><img src="https://img.shields.io/badge/Source Please-30302f?style=flat&logo=telegram" alt="telegram badge"/>
    <a href="https://telegram.dog/SourcePleaseML"><img src="https://img.shields.io/badge/Source Pleace ML-30302f?style=flat&logo=telegram" alt="telegram badge"/>
    </p>
